@@ -20,18 +20,18 @@ function App() {
       <Container title="About me" id="about">
         <AboutMe></AboutMe>
       </Container>
-      <Container title="Experiencia laboral" id="work-experience">
+      <Container title="Work experience" id="work-experience">
         <WorkExperience
           date="Oct 2019 – Mar 2020"
           company="Founduss"
-          job="desarrollador backend con laravel"
-          jobDescription="Cree un sistema automatizado de reserva de servicios empresariales, cree una BBDD SQL, cree una API rest para una app movil."
+          job="Backend developer with laravel"
+          jobDescription="Develop an automated business service reservation system, create a SQL DB, create a rest API for a mobile app."
         ></WorkExperience>
         <WorkExperience
           date="Nov 2020 – Nov 2020"
           company="Traductoridiomasmayas"
-          job="Base de datos"
-          jobDescription="Desarrolle una BBDD sql para guardar traducciones realizadas por los usuarios."
+          job="Data base"
+          jobDescription=""
         ></WorkExperience>
       </Container>
       <Container title="Educacíon" id="education">
