@@ -4,7 +4,7 @@ import "./contact.css";
 function Contact() {
   const [state, handleSubmit] = useForm("contactForm");
   if (state.succeeded) {
-    return <p className="contact__message">¡Mensaje enviado correctamente!</p>;
+    return <p className="contact__message">Message sent successfully!</p>;
   }
   return (
     <div className="contact">
@@ -18,18 +18,18 @@ function Contact() {
         <input
           className="contact__email"
           type="email"
-          placeholder="Tu e-mail"
+          placeholder="Your e-mail"
           name="email"
           id="email"
         ></input>
         <textarea
           className="contact__text-area"
-          placeholder="Tu mensaje"
+          placeholder="Your message"
           id="message"
           name="message"
         ></textarea>
         <button className="contact__button" type="submit">
-          enviar
+          send
         </button>
       </form>
     </div>

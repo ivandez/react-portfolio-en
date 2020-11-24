@@ -167,7 +167,7 @@ function App() {
           link="https://platzi.com/@ivan-mendez/curso/1631-java-basico/diploma/detalle/"
         ></Diplomas>
       </Container>
-      <Container title="Contactame :)" id="contact">
+      <Container title="Contact me :)" id="contact">
         <FormspreeProvider project="1545787927554949020">
           <Contact></Contact>
         </FormspreeProvider>
