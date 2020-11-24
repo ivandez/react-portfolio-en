@@ -79,7 +79,7 @@ function App() {
           link="https://ivandez.github.io/PlatziConfHawaii/"
         ></Project>
       </Container>
-      <Container title="Habilidades" id="abilities">
+      <Container title="Abilities" id="abilities">
         <Abilities
           abilities={[
             "HTML5",
@@ -96,7 +96,7 @@ function App() {
             "Ubuntu",
             "Vagrant/VirtualBox",
             "MVC",
-            "Programación Orientada a Objectos",
+            "Object-oriented programming",
           ]}
         ></Abilities>
       </Container>
