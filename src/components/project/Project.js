@@ -14,7 +14,7 @@ const Project = (props) => {
           target="_blank"
           rel="noreferrer"
         >
-          Ver online
+          View online
         </a>
       </div>
     );
@@ -39,7 +39,7 @@ const Project = (props) => {
           target="_blank"
           rel="noreferrer"
         >
-          Ver reporsitorio
+          Go to repository
         </a>
         {link}
       </div>
