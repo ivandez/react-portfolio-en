@@ -103,67 +103,67 @@ function App() {
       <Container title="Diplomas" id="diplomas">
         <Diplomas
           date="2019"
-          title="CARRERA: Desarrollo Backend con PHP"
+          title="Backend Development with PHP"
           link="https://platzi.com/@ivan-mendez/carrera/57-desarrollo-php/diploma/detalle/"
         ></Diplomas>
         <Diplomas
           date="2019"
-          title="Fundamentos de Ingeniería de Software"
+          title="Fundamentals of Software Engineering"
           link="https://platzi.com/@ivan-mendez/curso/1098-ingenieria/diploma/detalle/"
         ></Diplomas>
         <Diplomas
           date="2019"
-          title="Fundamentos de Bases de Datos"
+          title="Database Fundamentals"
           link="https://platzi.com/@ivan-mendez/curso/1566-bd/diploma/detalle/"
         ></Diplomas>
         <Diplomas
           date="2018"
-          title="Inglés B1"
+          title="English B1"
           link="https://user-images.githubusercontent.com/38108288/99884956-029aec00-2c08-11eb-8685-4cf2bff141af.jpg"
         ></Diplomas>
         <Diplomas
           date="2019"
-          title="Desarrollo WEB ONLINE"
+          title="ONLINE WEB development"
           link="https://platzi.com/@ivan-mendez/curso/1350-html5-css3/diploma/detalle/"
         ></Diplomas>
         <Diplomas
           date="2019"
-          title="Curso de Git y Github"
+          title="Git and Github course"
           link="https://platzi.com/@ivan-mendez/curso/1170-git-github-2017/diploma/detalle/"
         ></Diplomas>
         <Diplomas
           date="2019"
-          title="Programación Orientada a Objectos"
+          title="Object-oriented programming"
           link="https://platzi.com/@ivan-mendez/curso/1474-oop/diploma/detalle/"
         ></Diplomas>
         <Diplomas
           date="2019"
-          title="Introducción a la Terminal y Línea de comandos"
+          title="Introduction to Terminal and Command Line"
           link="https://platzi.com/@ivan-mendez/curso/1276-terminal/diploma/detalle/"
         ></Diplomas>
         <Diplomas
           date="2019"
-          title="Curso de Bootstrap 4"
+          title="Course of Bootstrap 4"
           link="https://platzi.com/@ivan-mendez/curso/1331-bootstrap/diploma/detalle/"
         ></Diplomas>
         <Diplomas
           date="2019"
-          title="Curso de API REST"
+          title="Course of API REST"
           link="https://platzi.com/@ivan-mendez/curso/1638-api-rest/diploma/detalle/"
         ></Diplomas>
         <Diplomas
           date="2019"
-          title="Introducción a PHP"
+          title="Introduction to PHP"
           link="https://platzi.com/@ivan-mendez/curso/1338-php/diploma/detalle/"
         ></Diplomas>
         <Diplomas
           date="2018"
-          title="Programación Básica"
+          title="Basic programming"
           link="https://platzi.com/@ivan-mendez/curso/1050-programacion-basica/diploma/detalle/"
         ></Diplomas>
         <Diplomas
           date="2019"
-          title="Introducción a Java SE"
+          title="Introduction to Java SE"
           link="https://platzi.com/@ivan-mendez/curso/1631-java-basico/diploma/detalle/"
         ></Diplomas>
       </Container>
