@@ -19,7 +19,7 @@ const NavBar = (props) => {
         Iván Méndez
       </Link>
       <Link to="about" smooth={true} duration={1500} className={className}>
-        Sobre de mí
+        About me
       </Link>
       <Link
         to="work-experience"
@@ -27,22 +27,22 @@ const NavBar = (props) => {
         duration={1500}
         className={className}
       >
-        Experiencia laboral
+        Work experience
       </Link>
       <Link to="education" smooth={true} duration={1500} className={className}>
-        Educación
+        Education
       </Link>
       <Link to="project" smooth={true} duration={1500} className={className}>
-        Proyectos
+        Projects
       </Link>
       <Link to="abilities" smooth={true} duration={1500} className={className}>
-        Habilidades
+        Abilities
       </Link>
       <Link to="diplomas" smooth={true} duration={1500} className={className}>
         Diplomas
       </Link>
       <Link to="contact" smooth={true} duration={1500} className={className}>
-        Contactacme
+        Contact me
       </Link>
 
       <button onClick={() => setIsOpen(!open)} className="navbar__toggler">
