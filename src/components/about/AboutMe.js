@@ -6,33 +6,33 @@ const AboutMe = (props) => {
     <div className="about">
       <div className="about__text">
         <p>
-          Dicen que la curiosidad mato algo gato, en mi caso es lo que hace que
-          me levante cada día para aprender algún nuevo, durante 2018 después de
-          matricularme para un TSU en informática, me di cuenta que para empezar
-          a programar tenia que esperar a empezar el segundo semestre, no tuve
-          esa paciencia y decidí escribir por mí mismo mi primer Hello World en
-          Java, en ese momento en el que escribir mi primer programa algo hizo
-          click en mi cabeza porque me di cuenta que habilidades que destacan en
-          mí como la comprensión e intuición encajan bien con la programación.
+          They say that curiosity killed something cat, in my case it is what
+          makes me get up every day to learn something new, during 2018 after
+          enrolling for a TSU in computer science, I realized that to start
+          programming I had to wait to start the second semester, I did not have
+          that patience and I decided to write my first Hello World in Java by
+          myself, at that moment when writing my first program something clicked
+          in my head because I realized that skills that stand out in me such as
+          understanding and intuition fit well with programming.
         </p>
 
         <p>
           {" "}
-          Desde ese día he decidido juntar la teoría de la universidad con el
-          poder estudiar lo que yo quiero de las plataformas online como platzi
-          y udemy, esto es genial ya que ambos métodos se complementa
-          excelentemente, permitiéndome tener conocimientos actualizados y
-          útiles con la teoría de lo que usamos día a día.{" "}
+          Since that day I have decided to combine university theory with being
+          able to study what I want from online platforms such as platzi and
+          udemy, this is great since both methods complement each other
+          excellently, allowing me to have updated and useful knowledge with the
+          theory of what that we use every day.{" "}
         </p>
 
         <p>
-          A día de hoy me siento con el suficiente conocimiento como para poder
-          empezar mi carrera en IT, mi empleo ideal seria aquel en donde yo
-          busque soluciones a problemas propuestos por el cliente, y que dichas
-          soluciones sean aplicadas a la web, donde yo forme parte del
-          desarrollo front-end y back-end, donde la empresa me permita nutrirme
-          profesionalmente rodeándome de programadores senior, donde tenga la
-          posibilidad de viajar y en donde el horario de trabajo sea flexible.
+          Today I feel I have enough knowledge to start my career in IT, my
+          ideal job would be one where I seek solutions to problems proposed by
+          the client, and that these solutions are applied to the web, where I
+          am part of front-end and back-end development, where the company
+          allows me to nurture myself professionally by surrounding myself with
+          senior programmers, where I have the possibility of traveling and
+          where work hours are flexible.
         </p>
       </div>
     </div>

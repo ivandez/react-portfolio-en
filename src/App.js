@@ -17,7 +17,7 @@ function App() {
     <div className="App">
       <NavBar></NavBar>
       <Hero></Hero>
-      <Container title="Sobre mí" id="about">
+      <Container title="About me" id="about">
         <AboutMe></AboutMe>
       </Container>
       <Container title="Experiencia laboral" id="work-experience">
