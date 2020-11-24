@@ -97,6 +97,7 @@ function App() {
             "Vagrant/VirtualBox",
             "MVC",
             "Object-oriented programming",
+            "SOLID",
           ]}
         ></Abilities>
       </Container>
