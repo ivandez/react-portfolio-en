@@ -1,0 +1,52 @@
+.hero {
+  align-items: center;
+  background: url("https://user-images.githubusercontent.com/38108288/98447858-84feb880-20fe-11eb-8067-2825f5d4a2a2.jpg");
+  color: #ffff;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  background-position: 40% 90%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero__title {
+  font-family: "Permanent Marker", cursive;
+  font-size: 2.5em;
+  margin: 10px;
+}
+
+.hero__degree {
+  font-family: "Lato", sans-serif;
+  font-size: 2em;
+  margin: 10px;
+}
+
+.hero__list {
+  list-style: none;
+}
+
+.hero__item {
+  display: inline;
+  font-size: 2.25rem;
+  padding: 1em;
+}
+
+.hero__link {
+  color: white;
+  transition: 0.5s ease all;
+}
+
+.hero__link:hover {
+  color: var(--primaryColor);
+  font-size: 46px;
+}
+
+@media only screen and (min-width: 768px) {
+  .hero {
+    background-attachment: scroll;
+    background-attachment: fixed;
+    background-position: 40% 25%;
+  }
+}

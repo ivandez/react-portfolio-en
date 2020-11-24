@@ -1,0 +1,37 @@
+.workExperience__title {
+  text-decoration: underline #3a63ff;
+}
+
+.work-experience-card {
+  background: white;
+  border: 1px solid #e6e6e6;
+  height: auto;
+  margin: 10px 0;
+  padding: 15px;
+  word-wrap: break-word;
+}
+
+.work-experience-card__company {
+  font-size: 1.5em;
+  font-weight: 300;
+  color: #374054;
+  display: inline-block;
+  margin: 0;
+}
+
+.work-experience-card__employment {
+  font-size: 1.2em;
+  font-weight: 300;
+  color: #7e8890;
+  margin: 0 0 15px 0;
+}
+
+.work-experience-card__description {
+  color: #74808a;
+  font-size: 1em;
+  margin: 0;
+}
+
+.work-experience-card__date {
+  float: right;
+}

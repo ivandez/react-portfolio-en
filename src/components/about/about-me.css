@@ -1,0 +1,8 @@
+.about {
+  color: white;
+}
+
+.about__text {
+  font-family: "Source Code Pro", monospace;
+  line-height: 1.5em;
+}

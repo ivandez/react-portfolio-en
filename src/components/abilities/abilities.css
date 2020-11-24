@@ -1,0 +1,25 @@
+.abilities__title {
+  text-decoration: underline #3a63ff;
+}
+
+.abilities {
+  margin-bottom: 10px;
+}
+
+.abilities__list {
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 800px;
+}
+
+.abilities__item {
+  display: inline-block;
+  margin: 7px;
+  padding: 5px 10px;
+  color: #374054;
+  background: #e4e4ea;
+  list-style: none;
+  cursor: default;
+  font-size: 1.2em;
+}

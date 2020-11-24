@@ -1,0 +1,31 @@
+.education__title {
+  text-decoration: underline #3a63ff;
+}
+
+.education {
+  max-width: 700px;
+  margin: 0 auto 30px auto;
+  padding: 15px;
+  border: 1px solid #dcd9d9;
+  text-align: left;
+  background: white;
+}
+
+.education__institution {
+  font-weight: 500;
+  /* font-family: importar Lato de google fonts*/
+  margin: 0;
+  color: #374054;
+}
+
+.education__date {
+  color: #74808a;
+  float: right;
+}
+
+.education__degree {
+  color: #74808a;
+  clear: both;
+  font-weight: 500;
+  margin: 0 0 15px 0;
+}

@@ -1,0 +1,51 @@
+.project {
+  display: flex;
+  max-width: 700px;
+  margin: 0 auto 30px auto;
+  padding: 15px;
+  border: 1px solid #dcd9d9;
+  text-align: left;
+  background: white;
+}
+
+.project_img {
+  width: 300px;
+  height: 300px;
+
+  display: none;
+}
+
+.project__info {
+  align-self: center;
+  text-align: center;
+  justify-self: center;
+  width: 100%;
+}
+
+.project__title {
+  font-weight: 500;
+  margin: 0 0 15px 0;
+  color: #374054;
+}
+
+.project__description {
+  color: #74808a;
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0 0 15px 0;
+}
+
+.proyect__link {
+  color: var(--primaryColor);
+  text-decoration: none;
+}
+
+.proyect__link:hover {
+  text-decoration: underline;
+}
+
+@media (min-width: 768px) {
+  .project_img {
+    display: initial;
+  }
+}
